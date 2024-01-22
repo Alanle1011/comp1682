@@ -1,0 +1,9 @@
+[submodule "frontend-marketplace"]
+	path = frontend-marketplace
+	url = git@github.com:Alanle1011/frontend-marketplace.git
+[submodule "subgraph-marketplace"]
+	path = subgraph-marketplace
+	url = git@github.com:Alanle1011/subgraph-marketplace.git
+[submodule "contract-marketplace"]
+	path = contract-marketplace
+	url = git@github.com:Alanle1011/contract-marketplace.git
