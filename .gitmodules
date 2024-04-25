@@ -7,6 +7,3 @@
 [submodule "contract-marketplace"]
 	path = contract-marketplace
 	url = git@github.com:Alanle1011/contract-marketplace.git
-[submodule "graphnode-marketplace"]
-	path = graphnode-marketplace
-	url = https://github.com/Alanle1011/graphnode-marketplace
